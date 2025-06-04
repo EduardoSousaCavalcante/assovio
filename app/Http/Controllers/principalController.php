@@ -14,8 +14,8 @@ class PrincipalController extends Controller
         return view('site.cursos');
     }
 
-    public function oportuidades() {
-        return view('site.oportuidades');
+    public function oportunidades() {
+        return view('site.oportunidades');
     }
 
     public function vestibulinho() {
